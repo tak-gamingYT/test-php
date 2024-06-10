@@ -27,7 +27,6 @@ jobs:
           path: |
             application
             vendor
-            public
 - name: Install Node packages
   run: npm install
 
